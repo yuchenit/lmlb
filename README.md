@@ -5,16 +5,16 @@
   
   ## Hi, I'm yuchenit(yuchenit).
   <div id="badges">
-  <a href="https://github.com/zxpsuper">
+  <a href="https://github.com/yuchen">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Gihub"/>
   </a>
-  <a href="https://zxpsuper.github.io/">
+  <a href="https://yuchenit.github.io/">
     <img src="https://img.shields.io/badge/Website-greenblue?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="website"/>
   </a>
-  <a href="https://www.zhihu.com/people/super-32-94-54">
+  <a href="https://www.zhihu.com/people/xxxx">
     <img src="https://img.shields.io/badge/yuchenit-1772f6?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
   </a>
-  <a href="https://juejin.cn/user/1398234519963565/posts">
+  <a href="https://juejin.cn/user/2366588542528120/posts">
     <img src="https://img.shields.io/badge/yuchenit-1e80ff?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金"/>
   </a>
 </div>
