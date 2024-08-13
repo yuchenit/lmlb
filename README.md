@@ -30,7 +30,7 @@
 
 Greetings and salutations, fellow coders! 
 
-I am a front-end engineer based in Guangzhou, China, passionate about creating amazing digital experiences.
+I am a backend engineer based in Shenzhen, China, passionate about creating amazing digital experiences.
 
 I'm always up for a good coding challenge, a lively debate about the merits of different programming languages. 
 
