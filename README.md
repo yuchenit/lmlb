@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
   
-  ## Hi, I'm xxx(xxx).
+  ## Hi, I'm yuchenit(yuchenit).
   <div id="badges">
   <a href="https://github.com/zxpsuper">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Gihub"/>
@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/badge/Website-greenblue?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="website"/>
   </a>
   <a href="https://www.zhihu.com/people/super-32-94-54">
-    <img src="https://img.shields.io/badge/xxx-1772f6?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
+    <img src="https://img.shields.io/badge/yuchenit-1772f6?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
   </a>
   <a href="https://juejin.cn/user/1398234519963565/posts">
-    <img src="https://img.shields.io/badge/xxx-1e80ff?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金"/>
+    <img src="https://img.shields.io/badge/yuchenit-1e80ff?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金"/>
   </a>
 </div>
 </div> 
@@ -73,11 +73,11 @@ So if you're looking for a developer who's equal parts creative and strategic, p
 <!-- Streaks, github stat and most used languages. -->
 <div align="center"> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zxpsuper)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuchenit)](https://git.io/streak-stats)
 &nbsp;&nbsp;
 </div>
 
 <div align="center"> 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zxpsuper&show_icons=true&include_all_commits=true&line_height=21&FFFC79,73FA79&theme=graywhite&locale=en" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxpsuper&hide_title=true&layout=compact&theme=graywhite&locale=en" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yuchenit&show_icons=true&include_all_commits=true&line_height=21&FFFC79,73FA79&theme=graywhite&locale=en" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchenit&hide_title=true&layout=compact&theme=graywhite&locale=en" />
 </div>
