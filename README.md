@@ -42,10 +42,10 @@ So if you're looking for a developer who's equal parts creative and strategic, p
 
 <p align="center"> 
     <a href="#"> 
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Java&logoColor=black" alt="" height=""/> 
+        <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" height=""/> 
     </a>
     <a href="#"> 
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Python&logoColor=white" alt="" height=""/> 
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" height=""/> 
     </a>
 </p> 
 
