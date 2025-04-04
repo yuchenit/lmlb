@@ -9,20 +9,20 @@
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Gihub"/>
   </a>
   <a href="https://yuchenit.github.io/">
-    <img src="https://img.shields.io/badge/Website-greenblue?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="website"/>
-  </a>
-  <a href="https://www.zhihu.com/people/xxxx">
-    <img src="https://img.shields.io/badge/yuchenit-1772f6?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
-  </a>
-  <a href="https://juejin.cn/user/2366588542528120/posts">
-    <img src="https://img.shields.io/badge/yuchenit-1e80ff?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金"/>
-  </a>
+      <img src="https://img.shields.io/badge/Website-greenblue?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website"/>
+    </a>
+    <a href="https://www.zhihu.com/people/xxxx">
+      <img src="https://img.shields.io/badge/Zhihu-1772f6?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
+    </a>
+    <a href="https://juejin.cn/user/2366588542528120/posts">
+      <img src="https://img.shields.io/badge/Juejin-1e80ff?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金"/>
+    </a>
 </div>
 </div> 
 <br> 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=zxpsuper&color=ff69b4&label=PV+Since+2020-10-18)
+![](https://komarev.com/ghpvc/?username=yuchenit&color=ff69b4&label=PV+Since+2015-09-01)
 
 </div>
 
@@ -40,19 +40,27 @@ So if you're looking for a developer who's equal parts creative and strategic, p
 
 ## Languages and Tools:
 
-<p align="center"> 
-    <a href="#"> 
-        <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" height=""/> 
+<p align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" alt="Java" height="30"/>
     </a>
-    <a href="#"> 
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" height=""/> 
+    <a href="#">
+        <img src="https://img.shields.io/badge/Vue-E34F26?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" height="30"/>
     </a>
-</p> 
+    <a href="#">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="30"/>
+    </a>
+</p>
 
 <!-- Streaks, github stat and most used languages. -->
 <div align="center"> 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuchenit)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=yuchenit&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats) -->
 &nbsp;&nbsp;
 </div>
 
