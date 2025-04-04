@@ -36,7 +36,7 @@ I'm always up for a good coding challenge, a lively debate about the merits of d
 
 So if you're looking for a developer who's equal parts creative and strategic, please drop me a line and let's build something amazing together!   
 
-📫 How to reach me: xxx
+📫 How to reach me: QQ:656984220
 
 ## Languages and Tools:
 
