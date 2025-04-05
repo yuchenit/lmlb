@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
   
-  ## Hi, I'm luomoliubai(yuchenit).
+  ## Hi, I'm yuchen(yuchenit).
   <div id="badges">
   <a href="https://github.com/yuchen">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Gihub"/>
